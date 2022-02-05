@@ -18,11 +18,48 @@ Grade is made up of two quizzes (30% each), regular homework (20%), and the term
 
 In a nutshell:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quizzes (two) | 30% each |
-| Homework | 20% |
-| Term Project | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (two)
+{{< tdclose >}}
+{{< tdopen >}}
+30% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Suggested References
 --------------------
