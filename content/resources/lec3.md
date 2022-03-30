@@ -6,6 +6,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   fluid force Y, and fluid force N.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/ecea1b3fdf00cca57cc56c49113c0368_lec3.pdf
 file_type: application/pdf
+parent_uid: 1dec23ac-02fc-c5ec-51b8-196aa6d2a108
 resourcetype: Document
 title: lec3.pdf
 uid: ecea1b3f-df00-cca5-7cc5-6c49113c0368

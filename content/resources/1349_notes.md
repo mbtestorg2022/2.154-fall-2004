@@ -4,6 +4,7 @@ description: Full text of the lecture notes for the course. Triantafyllou, Micha
   S., and Franz S. Hover. Maneuvering and Control of Marine Vehicles.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/2609f8b1bdebe4566891080afe007f51_1349_notes.pdf
 file_type: application/pdf
+parent_uid: 1dec23ac-02fc-c5ec-51b8-196aa6d2a108
 resourcetype: Document
 title: 1349_notes.pdf
 uid: 2609f8b1-bdeb-e456-6891-080afe007f51

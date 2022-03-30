@@ -7,6 +7,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   margins.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/2d5318503b8f97d5a5255596fcf2e3f1_lec19.pdf
 file_type: application/pdf
+parent_uid: 1dec23ac-02fc-c5ec-51b8-196aa6d2a108
 resourcetype: Document
 title: lec19.pdf
 uid: 2d531850-3b8f-97d5-a525-5596fcf2e3f1

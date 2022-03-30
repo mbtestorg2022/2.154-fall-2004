@@ -5,6 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: steady propulsion of vessels and unsteady propulsion models.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/3eb3728a69a0e5c3a809e4111f7e036d_lec12.pdf
 file_type: application/pdf
+parent_uid: 1dec23ac-02fc-c5ec-51b8-196aa6d2a108
 resourcetype: Document
 title: lec12.pdf
 uid: 3eb3728a-69a0-e5c3-a809-e4111f7e036d

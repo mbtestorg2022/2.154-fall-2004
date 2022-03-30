@@ -7,6 +7,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   and fins and coeffcients Zw, Mw, Zq, and Mq for a slender body.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/a13938a09eb13e7d8be464545141aaab_lec8.pdf
 file_type: application/pdf
+parent_uid: 1dec23ac-02fc-c5ec-51b8-196aa6d2a108
 resourcetype: Document
 title: lec8.pdf
 uid: a13938a0-9eb1-3e7d-8be4-64545141aaab

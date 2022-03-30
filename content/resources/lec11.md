@@ -5,6 +5,7 @@ description: 'Section from the course lecture notes (Triantafyllou, Michael S., 
   topics: origin of lift, three-dimentional effects, and ring fins.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/629399f3acdf62364d4cc236009e053d_lec11.pdf
 file_type: application/pdf
+parent_uid: 1dec23ac-02fc-c5ec-51b8-196aa6d2a108
 resourcetype: Document
 title: lec11.pdf
 uid: 629399f3-acdf-6236-4d4c-c236009e053d
